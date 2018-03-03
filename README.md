@@ -1,2 +1,3 @@
 # Eric-Foreman-Quotes
-Sintra web server to show quotes by Eric Foreman
+Simple sinatra web server to display quotes from Eric Foreman. 
+Meant to be an introductory project for starting with ruby development
